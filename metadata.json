@@ -1,0 +1,6 @@
+{
+  "name": "Academic Performance Dashboard",
+  "description": "สรุปผลงานวิชาการของอาจารย์ในหลักสูตร รายงานและการแสดงผลข้อมูลสำหรับปีการศึกษา 2564–2568",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
